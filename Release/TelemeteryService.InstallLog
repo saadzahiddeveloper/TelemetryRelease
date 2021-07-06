@@ -1,0 +1,114 @@
+﻿Installing assembly 'E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe
+   logtoconsole = 
+Installing service TelService...
+Service TelService has been successfully installed.
+Creating EventLog source TelService in log Application...
+Committing assembly 'E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe
+   logtoconsole = 
+Uninstalling assembly 'E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe
+Removing EventLog source TelService.
+Service TelService is being removed from the system...
+Service TelService was successfully removed from the system.
+Installing assembly 'E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe
+Installing service TelService...
+Service TelService has been successfully installed.
+Creating EventLog source TelService in log Application...
+Committing assembly 'E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Source Codes\TelemeteryService\TelemeteryService\bin\Release\TelemeteryService.exe
+Installing assembly 'E:\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Release\TelemeteryService.exe
+Installing service TelService...
+Creating EventLog source TelService in log Application...
+Rolling back assembly 'E:\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Release\TelemeteryService.exe
+Restoring event log to previous state for source TelService.
+Installing assembly 'E:\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Release\TelemeteryService.exe
+Installing service TelService...
+Service TelService has been successfully installed.
+Creating EventLog source TelService in log Application...
+Committing assembly 'E:\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Release\TelemeteryService.exe
+Installing assembly 'E:\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Release\TelemeteryService.exe
+Installing service TelService...
+Service TelService has been successfully installed.
+Creating EventLog source TelService in log Application...
+Committing assembly 'E:\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Release\TelemeteryService.InstallLog
+   assemblypath = E:\Release\TelemeteryService.exe
+Installing assembly 'D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.InstallLog
+   assemblypath = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe
+Installing service TelService...
+Creating EventLog source TelService in log Application...
+Rolling back assembly 'D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.InstallLog
+   assemblypath = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe
+Restoring event log to previous state for source TelService.
+Installing assembly 'D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.InstallLog
+   assemblypath = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe
+Installing service TelService...
+Creating EventLog source TelService in log Application...
+Rolling back assembly 'D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.InstallLog
+   assemblypath = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe
+Restoring event log to previous state for source TelService.
+Installing assembly 'D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.InstallLog
+   assemblypath = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe
+Installing service TelService...
+Service TelService has been successfully installed.
+Creating EventLog source TelService in log Application...
+Committing assembly 'D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.InstallLog
+   assemblypath = D:\Development\Others\YDS Extras\TelemetryRelease\Release\TelemeteryService.exe
